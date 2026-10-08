@@ -1,0 +1,83 @@
+{
+  "planteles": [
+    {
+      "escuela": "Preparatoria 2 de Octubre de 1968",
+      "materias": [
+        { "codigo": "MAT-2O-101", "nombre": "Matemáticas I (Álgebra)" },
+        { "codigo": "MAT-2O-102", "nombre": "Matemáticas II (Geometría y Trigonometría)" },
+        { "codigo": "MAT-2O-103", "nombre": "Matemáticas III (Geometría Analítica)" },
+        { "codigo": "MAT-2O-104", "nombre": "Matemáticas IV (Cálculo Diferencial e Integral)" },
+        { "codigo": "MAT-2O-105", "nombre": "Probabilidad y Estadística" }
+      ]
+    },
+    {
+      "escuela": "Preparatoria Alfonso Calderón Moreno",
+      "materias": [
+        { "codigo": "MAT-AC-101", "nombre": "Matemáticas I (Álgebra)" },
+        { "codigo": "MAT-AC-102", "nombre": "Matemáticas II (Geometría y Trigonometría)" },
+        { "codigo": "MAT-AC-103", "nombre": "Matemáticas III (Geometría Analítica)" },
+        { "codigo": "MAT-AC-104", "nombre": "Matemáticas IV (Cálculo Diferencial e Integral)" },
+        { "codigo": "MAT-AC-105", "nombre": "Probabilidad y Estadística" }
+      ]
+    },
+    {
+      "escuela": "Preparatoria Benito Juárez García",
+      "materias": [
+        { "codigo": "MAT-BJ-101", "nombre": "Matemáticas I (Álgebra)" },
+        { "codigo": "MAT-BJ-102", "nombre": "Matemáticas II (Geometría y Trigonometría)" },
+        { "codigo": "MAT-BJ-103", "nombre": "Matemáticas III (Geometría Analítica)" },
+        { "codigo": "MAT-BJ-104", "nombre": "Matemáticas IV (Cálculo Diferencial e Integral)" },
+        { "codigo": "MAT-BJ-105", "nombre": "Probabilidad y Estadística" }
+      ]
+    },
+    {
+      "escuela": "Preparatoria Emiliano Zapata",
+      "materias": [
+        { "codigo": "MAT-EZ-101", "nombre": "Matemáticas I (Álgebra)" },
+        { "codigo": "MAT-EZ-102", "nombre": "Matemáticas II (Geometría y Trigonometría)" },
+        { "codigo": "MAT-EZ-103", "nombre": "Matemáticas III (Geometría Analítica)" },
+        { "codigo": "MAT-EZ-104", "nombre": "Matemáticas IV (Cálculo Diferencial e Integral)" },
+        { "codigo": "MAT-EZ-105", "nombre": "Probabilidad y Estadística" }
+      ]
+    },
+    {
+      "escuela": "Preparatoria Lázaro Cárdenas del Río",
+      "materias": [
+        { "codigo": "MAT-LC-101", "nombre": "Matemáticas I (Álgebra)" },
+        { "codigo": "MAT-LC-102", "nombre": "Matemáticas II (Geometría y Trigonometría)" },
+        { "codigo": "MAT-LC-103", "nombre": "Matemáticas III (Geometría Analítica)" },
+        { "codigo": "MAT-LC-104", "nombre": "Matemáticas IV (Cálculo Diferencial e Integral)" },
+        { "codigo": "MAT-LC-105", "nombre": "Probabilidad y Estadística" }
+      ]
+    },
+    {
+      "escuela": "Preparatoria Regional Enrique Cabrera Barroso",
+      "materias": [
+        { "codigo": "MAT-EC-101", "nombre": "Álgebra y Aritmética" },
+        { "codigo": "MAT-EC-102", "nombre": "Geometría Plana y del Espacio" },
+        { "codigo": "MAT-EC-103", "nombre": "Geometría Analítica" },
+        { "codigo": "MAT-EC-104", "nombre": "Cálculo Diferencial e Integral" },
+        { "codigo": "MAT-EC-105", "nombre": "Probabilidad y Estadística" }
+      ]
+    },
+    {
+      "escuela": "Preparatoria Simón Bolívar",
+      "materias": [
+        { "codigo": "MAT-SB-101", "nombre": "Matemáticas I (Álgebra)" },
+        { "codigo": "MAT-SB-102", "nombre": "Matemáticas II (Geometría y Trigonometría)" },
+        { "codigo": "MAT-SB-103", "nombre": "Matemáticas III (Geometría Analítica)" },
+        { "codigo": "MAT-SB-104", "nombre": "Matemáticas IV (Cálculo Diferencial e Integral)" },
+        { "codigo": "MAT-SB-105", "nombre": "Probabilidad y Estadística" }
+      ]
+    },
+    {
+      "escuela": "Bachillerato Internacional 5 de Mayo",
+      "materias": [
+        { "codigo": "BI5M-101", "nombre": "NM Mathematics: Analysis and Approaches" },
+        { "codigo": "BI5M-102", "nombre": "HL Mathematics: Applications and Interpretation" },
+        { "codigo": "BI5M-103", "nombre": "Cálculo Avanzado IB" },
+        { "codigo": "BI5M-104", "nombre": "Estadística y Probabilidad Aplicada" }
+      ]
+    }
+  ]
+}
